@@ -1,75 +1,77 @@
-Interactive Gym Management System
+# Interactive Gym Management System
 
-A command-line based Gym Management System built using Java, focusing on Data Structures & Algorithms (DSA) and CRUD operations.
-This project was developed as an end-of-first-semester university project (January 2025).
+- A command-line based Gym Management System built using Java, with a focus on Data Structures & Algorithms (DSA) and CRUD operations.
 
+## Timeline: January 2025 (End of first semester, first year solo project)
 
+## Project Description:
 
-Project Description:
+The Interactive Gym Management System manages gym members’ training and health data using a real-world dataset. A dataset containing 900+ gym member records was imported from Kaggle to simulate real-world database usage.
 
-The system manages gym members’ training and health data using a real-world dataset. It allows users to efficiently search, analyze, and manipulate records through a command-line interface.
+### The application allows users to efficiently:
 
-An external dataset containing 900+ gym member records was imported from Kaggle, simulating real-world database operations.
+- Search and filter member records
 
+- Analyze health metrics
 
+- Perform full database operations
 
-Technologies Used:
+## Technologies Used:
 
-Java
+- **Java**
 
-Data Structures & Algorithms
+## Dataset
 
-CRUD Operations
+**Source**: Kaggle
 
-Command Line Interface (CLI)
+**Size**: 900+ records
 
+### Data Includes:
 
+- Training activity details
 
+- Health-related attributes
 
-Dataset:
+- Calorie expenditure data
 
-Source: Kaggle
+- BMI-related values
 
-Records: 900+ gym members
+## Features
 
-Data includes training and health-related attributes such as calorie expenditure and BMI-related values
+- **Advanced Database Lookup**: Search records using 7 different field filters
 
+- **BMI Analyzer**: Calculates and evaluates BMI using stored health data
 
+- **CRUD Operations**: Add, update and delete member records
 
+- **View existing data**
 
-Features:
+- **Top 5 Members by Calories Burned**: Retrieves and displays top performers (Implemented using the Quick Sort algorithm for efficient sorting)
 
-Database Lookup: Search records using 7 different field filters
+## How to Run
 
-BMI Analyzer: Calculates and analyzes BMI for gym members
+- Clone the repository
 
-CRUD Operations: Add, view, update, and delete member records
+- Open the project in a Java IDE or terminal
 
-Top 5 Members by Calories Burned: Implemented using the Quick Sort algorithm for efficient sorting
+- Compile and run the main Java file
 
+- Follow the command-line prompts to interact with the system
 
+## Learning Outcomes
 
+- Practical experience working with a large, real-world dataset
 
-Algorithms Implemented:
+### Improved understanding of:
 
-Quick Sort: Used to rank members based on calories burned
+- Algorithm efficiency and sorting techniques
 
+- Database-style record management
 
+- Java-based CLI application development
 
+- Applied theoretical DSA concepts in a functional project
 
-How to Run:
+## Project Timeline
 
-Clone the repository
-
-Open the project in a Java IDE or terminal
-
-Compile and run the main Java file
-
-Interact with the system via the command line prompts
-
-
-
-
-Timeline:
-
-January 2025 (End of First Semester – First Year Solo Project)
+- **January 2025** (End of First Semester – First Year solo project)
